@@ -28,6 +28,12 @@ Aplikasi web berbasis **Streamlit** untuk melakukan prediksi hasil pertandingan 
    git clone https://github.com/USERNAME/WebsitePredictionsEPL.git
    cd WebsitePredictionsEPL```
 ### Requirements
-```pip install -r requirements.txt```
+
+```
+pip install -r requirements.txt 
+```
+
 ### Run Streamlit
-```streamlit run epl.py```
+```
+streamlit run epl.py
+```
