@@ -23,10 +23,10 @@ Aplikasi web berbasis **Streamlit** untuk melakukan prediksi hasil pertandingan 
 
 ## 🛠 Installation
 ### Clone
-1. Clone repository:
    ```bash
    git clone https://github.com/USERNAME/WebsitePredictionsEPL.git
-   cd WebsitePredictionsEPL```
+   cd WebsitePredictionsEPL
+```
 ### Requirements
 
 ```
